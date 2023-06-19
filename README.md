@@ -22,6 +22,8 @@
   <img align="center" alt="Marcone-Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Marcone-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Marcone-Android" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg">
+  <img align="center" alt="Marcone-Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Marcone-Qt" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg">
 </div>
   
   ##
