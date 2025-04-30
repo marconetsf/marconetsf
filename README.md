@@ -3,7 +3,7 @@
 - 🔭 I’m currently looking for knowledge in IoT Area
 - 🌱 I’m currently learning Dart, Flutter and Firebase
 - 📧 : marconetsf@gmail.com
-- 📱 : (83)99810-0022
+- 📱 : +33 07 69 59 42 68
 - 🥊 Fun fact: I use to play guitar from rock to brasilian popular music.
 
 ##
